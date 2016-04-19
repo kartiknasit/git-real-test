@@ -1,1 +1,1 @@
-This is Readme File for testing Git Repo.
+Readme Test.
