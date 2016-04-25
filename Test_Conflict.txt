@@ -1,0 +1,2 @@
+This is testing for Conflict.
+I need to test how to solve conflict in GIT.
